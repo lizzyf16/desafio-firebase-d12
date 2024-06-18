@@ -1,3 +1,6 @@
+Deploy:
+https://desafio-dia12-8738d.web.app/
+
 # desafio-firebease-d12
 
 ## Project setup
